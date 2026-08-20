@@ -1,37 +1,55 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+</p>
 
 <h1 align="center">Hi 👋, I'm Robert Otiniano</h1>
 
 <h3 align="center">DevOps Engineer | Cloud | CI/CD | Automation | Infrastructure as Code</h3>
 
 <p align="center">
-Systems Engineer focused on DevOps, cloud infrastructure, automation, and software delivery.
-Experienced in Java, Spring Boot, microservices, CI/CD, containerization, and IT infrastructure.
-Currently focused on building reliable and automated delivery pipelines using Docker, Kubernetes, Azure, GitHub Actions, Jenkins, and Terraform.
+Systems Engineer with experience in software development, automation, and IT infrastructure.<br>
+Specialized in Java, Spring Boot, microservices architecture, CI/CD, containerization, and cloud technologies.
+</p>
+
+<p align="center">
+Focused on building automated software delivery pipelines and scalable infrastructure using Docker, Kubernetes, Azure, GitHub Actions, Jenkins, and Terraform.
 </p>
 
 ---
 
-### 🚀 DevOps & Cloud
+<h3 align="center">🧠 Technical Skills</h3>
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,githubactions,gitlab" />
+<h4 align="center">🚀 DevOps & Cloud</h4>
 
-### 🔄 CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,githubactions,gitlab" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" />
+<h4 align="center">🔄 CI/CD & Automation</h4>
 
-### 🏗️ Infrastructure as Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+<h4 align="center">🏗️ Infrastructure as Code</h4>
 
-### ☕ Backend & Microservices
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+<h4 align="center">☕ Backend & Microservices</h4>
 
-### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+</p>
 
-<p>
+<h4 align="center">🗄️ Databases</h4>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
        width="48"
@@ -39,77 +57,80 @@ Currently focused on building reliable and automated delivery pipelines using Do
        alt="Oracle SQL Developer" />
 </p>
 
-### 💻 Development & Tools
+<h4 align="center">💻 Development & Tools</h4>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,powershell" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,powershell" />
+</p>
 
-### 🎨 Frontend
+<h4 align="center">🎨 Frontend</h4>
 
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
-
----
-
-### 🏆 Featured Project
-
-#### 🛒 Store Microservices
-
-Microservices-based application developed with Java and Spring Boot, focused on backend development, containerization, and CI/CD automation.
-
-**Technologies:**
-`Java` `Spring Boot` `PostgreSQL` `Docker` `GitHub Actions`
-
-**Services:**
-
-* Product Service
-* Inventory Service
-* Sales Service
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
+</p>
 
 ---
 
-### 📚 Currently Learning
+<h3>🏆 Featured Project</h3>
 
-* Kubernetes & AKS
-* Azure Cloud
-* Terraform
-* CI/CD
-* Infrastructure as Code
-* DevOps practices
-* Cloud Infrastructure
+<h4>🛒 Store Microservices</h4>
 
----
+<p align="center">
+Microservices-based application developed with Java and Spring Boot,
+focused on backend development, containerization, and CI/CD automation.
+</p>
 
-### 🎯 Professional Focus
+<div align="center">
+
+<p>📦 <strong>Product Service</strong></p>
+<p>📊 <strong>Inventory Service</strong></p>
+<p>💰 <strong>Sales Service</strong></p>
+
+</div>
+
+<h4>Technologies:</h4>
+<code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>Docker</code> · <code>GitHub Actions</code>
+</p>
+
+<h4 align="center">🔄 CI/CD Pipeline</h4>
+
+<p align="center">
 
 ```text
-Software Development
-        ↓
-Microservices
-        ↓
-Docker
-        ↓
-CI/CD
-        ↓
-Kubernetes
-        ↓
-Azure
-        ↓
-Terraform
-        ↓
-Cloud Infrastructure
+GitHub
+   │
+   ▼
+GitHub Actions
+   │
+   ├── Build
+   ├── Test
+   ├── Package
+   └── Docker Build & Push
+   │
+   ▼
+Container Registry
+
 ```
 
 ---
-
 ### 🔗 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/robert-o-335a5216b/">
-<img src="https://img.shields.io/badge/LinkedIn-Robert%20Otiniano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:robert.oti.lopez95@gmail.com">
-<img src="https://img.shields.io/badge/Email-robert.oti.lopez95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/robert-o-335a5216b/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+         width="40"
+         height="40"
+         alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:robert.oti.lopez95@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+         width="40"
+         height="40"
+         alt="Email" />
+  </a>
 </p>
 
 ---
@@ -117,3 +138,5 @@ Cloud Infrastructure
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+
+
