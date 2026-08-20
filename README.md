@@ -21,11 +21,13 @@
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqldeveloper" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
-     width="50"
-     height="50"
-     alt="Oracle SQL Developer" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
+       width="48"
+       height="48"
+       alt="Oracle SQL Developer" />
+</p>
 
 #### 🎨 Frontend
 
