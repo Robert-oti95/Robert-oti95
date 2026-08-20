@@ -7,6 +7,24 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+### 🛠️ Technologies
+
+#### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+
+#### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,azure,terraform" />
+
+#### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" />
+
+#### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,azure,terraform" />
 
