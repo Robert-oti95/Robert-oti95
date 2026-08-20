@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Robert Otiniano </h1>
 
-<p align="center" width="150px"> Ingeniero de Sistemas con más de 4 años de experiencia en desarrollo de software, automatización e infraestructura TI. Especializado en Java, Spring Boot, arquitectura de microservicios y desarrollo de APIs REST. Con conocimientos en Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, Azure y Terraform. Experiencia trabajando con bases de datos PostgreSQL, MySQL y Oracle, además de herramientas de control de versiones como Git, GitHub, GitLab y Azure DevOps. Actualmente enfocado en fortalecer mis habilidades en DevOps, Cloud e Infrastructure as Code.</p>
+<p align="center" width="150px"> Systems Engineer with over 4 years of experience in software development, automation, and IT infrastructure. Specialized in Java, Spring Boot, microservices architecture, and REST API development. Proficient in Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, Azure, and Terraform. Experienced with PostgreSQL, MySQL, and Oracle databases, as well as version control tools such as Git, GitHub, GitLab, and Azure DevOps. Currently focused on strengthening my skills in DevOps, Cloud, and Infrastructure as Code.</p>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -21,9 +21,7 @@
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqldeveloper" />
 
 #### 🎨 Frontend
 
