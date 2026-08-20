@@ -7,38 +7,26 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-### 🛠️ Technologies
-
 #### Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
+
+#### Microservices & Messaging
+
+<img src="https://skillicons.dev/icons?i=redis,kafka,rabbitmq" />
 
 #### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,azure,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,azure,terraform,ansible" />
 
 #### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,mongodb" />
 
-#### Tools
+#### Development & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,powershell" />
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,azure,terraform" />
-
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
