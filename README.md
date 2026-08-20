@@ -9,7 +9,7 @@
 
 #### 🚀 DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,githubactions,gitlab,azure,terraform,ansible" />
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,jenkins,githubactions,gitlab,terraform,ansible" />
 
 #### 💻 Development & Tools
 
@@ -26,7 +26,6 @@
      width="50"
      height="50"
      alt="Oracle SQL Developer" />
-<img src="https://cdn.simpleicons.org/oracle" width="45" alt="Oracle" />
 
 #### 🎨 Frontend
 
